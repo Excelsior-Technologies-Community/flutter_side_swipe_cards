@@ -7,7 +7,6 @@ Perfect for swipe-based interfaces, onboarding screens, card browsing, product d
 <p align="center">
   <img src="example/assets/side_swipe_cards.gif" width="200" alt="Flutter Side Swipe Cards Demo">
 </p>
-
 ## ✨ Features
 
 * 🔄 Smooth left and right swipe animations
