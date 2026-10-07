@@ -3,7 +3,7 @@
 A smooth and customizable Flutter card stack widget that allows users to swipe cards horizontally with natural left/right swipe animations, rotation, scaling, and stacked-card effects.
 
 Perfect for swipe-based interfaces, onboarding screens, card browsing, product discovery, profile cards, and interactive Flutter applications.
-
+# Demo
 <p align="center">
   <img src="example/assets/side_swipe_cards.gif" width="200" alt="Flutter Side Swipe Cards Demo">
 </p>
