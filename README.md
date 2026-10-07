@@ -5,7 +5,7 @@ A smooth and customizable Flutter card stack widget that allows users to swipe c
 Perfect for swipe-based interfaces, onboarding screens, card browsing, product discovery, profile cards, and interactive Flutter applications.
 # Demo
 <p align="center">
-  <img src="example/assets/side_swipe_cards.gif" width="200" alt="Flutter Side Swipe Cards Demo">
+  <img src="example/assets/side_swipe_card.gif" width="200" alt="Flutter Side Swipe Cards Demo">
 </p>
 ## ✨ Features
 
